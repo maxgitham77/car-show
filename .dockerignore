@@ -1,0 +1,12 @@
+.git
+.gitignore
+
+.docker
+
+car-project/__pycache__/
+car-project/*/__pycache__/
+car-project/*/*/__pycache__/
+car-project/*/__pycache__/
+.env/
+.carenv/
+carenv/

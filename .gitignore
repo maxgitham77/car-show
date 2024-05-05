@@ -173,3 +173,9 @@ media/
 #.idea/
 
 # End of https://www.toptal.com/developers/gitignore/api/django
+note.txt
+Pipfile
+Pipfile.lock
+requirements.dev.txt
+requirements.txt
+xklusivcars/settings.py
